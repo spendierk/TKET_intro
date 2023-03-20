@@ -1,0 +1,6 @@
+pytket
+pytket-qiskit
+matplotlib
+pandas 
+seaborn
+pylatexenc
