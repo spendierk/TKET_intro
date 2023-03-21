@@ -10,6 +10,6 @@ If you want to run the notebook on your machine, please install all Python packa
 
 # Quantum Error Mitigation
 
-```qermit``` is a Python module for [running error-mitigation protocols](https://github.com/CQCL/Qermit) on quantum processors using ```PyTKET```, the Quantinuum python module for interfacing with TKET, a set of quantum programming tools.
+```qermit``` is a Python module for [running error-mitigation protocols](https://github.com/CQCL/Qermit) on quantum processors using ```PyTKET```.
 
-You can access the manual [here](https://cqcl.github.io/Qermit/manual/) and a tutorial you can access [here](https://github.com/CQCL/IEEE_Quantum_Week/blob/main/Part_3_Qermit.ipynb).
+You can access the manual [here](https://cqcl.github.io/Qermit/manual/) and a tutorial regarding how to apply ```qermit``` on IBM machines [here](https://github.com/CQCL/IEEE_Quantum_Week/blob/main/Part_3_Qermit.ipynb).
