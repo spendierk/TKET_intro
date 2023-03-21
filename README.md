@@ -6,3 +6,8 @@ The main notebook in this repository called "TKET_intro.ipynb" can be opened in 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spendierk/TKET_intro_for_qiskit_users/main).
 
 If you want to run the notebook on your machine, please install all Python packages outlined in "requirements.txt" and "apt.txt".
+
+
+# Quantum Error Mitigation
+
+<code> qermit <code/>  is a python module for running error-mitigation protocols on quantum processors using pytket, the Cambridge Quantum python module for interfacing with CQC TKET, a set of quantum programming tools.
