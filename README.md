@@ -10,4 +10,4 @@ If you want to run the notebook on your machine, please install all Python packa
 
 # Quantum Error Mitigation
 
-<code> qermit <code\>  is a python module for running error-mitigation protocols on quantum processors using pytket, the Cambridge Quantum python module for interfacing with CQC TKET, a set of quantum programming tools.
+'''qermit'''  is a python module for running error-mitigation protocols on quantum processors using pytket, the Cambridge Quantum python module for interfacing with CQC TKET, a set of quantum programming tools.
