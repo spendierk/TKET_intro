@@ -5,7 +5,7 @@ On behalf of [Quantinuum](https://www.quantinuum.com/), I invite you to explore 
 The main notebook in this repository called "TKET_intro.ipynb" can be opened in a JupyterHub server.To run the notebook in a browser launch Binder: (may take a few minutes to load)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spendierk/TKET_intro_for_qiskit_users/main).
 
-If you want to run the notebook on your machine, please install all Python packages outlined in "requirements.txt" and "apt.txt".
+If you want to run the notebook on your machine, please install all Python packages outlined in "requirements.txt", "runtime.txt", and "apt.txt".
 
 
 # Quantum Error Mitigation
