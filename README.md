@@ -8,6 +8,10 @@ The main notebook in this repository called "TKET_intro.ipynb" can be opened in 
 If you want to run the notebook on your machine, please install all Python packages outlined in "requirements.txt", "runtime.txt", and "apt.txt".
 
 
+# Introduction to Quantum Computing: Notes
+Here you will find some of my notes on the fundamentals of computation by circuits, logic gates, and the differences between classical bits and qubits. It will also introduce the postulates of quantum computing, providing a foundation for understanding the principles that differentiate quantum computing from classical computing. Furthermore, the notes will cover the Bloch sphere, superposition, complex numbers, measurement, linear algebra, and the quantum circuit model.
+
+
 # Quantum Error Mitigation
 
 ```qermit``` is a Python module for [running error-mitigation protocols](https://github.com/CQCL/Qermit) on quantum processors using ```PyTKET```.
