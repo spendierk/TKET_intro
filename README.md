@@ -9,7 +9,7 @@ If you want to run the notebook on your machine, please install all Python packa
 
 
 # Introduction to Quantum Computing: Notes
-[Here](https://github.com/spendierk/TKET_intro/blob/main/intro_to_QC_KS.pdf) you will find some of my notes on the fundamentals of computation by circuits, logic gates, and the differences between classical bits and qubits. It will also introduce the postulates of quantum computing, providing a foundation for understanding the principles that differentiate quantum computing from classical computing. Furthermore, the notes will cover the Bloch sphere, superposition, complex numbers, measurement, linear algebra, and the quantum circuit model.
+[Here](https://github.com/spendierk/TKET_intro/blob/main/intro_to_QC.pdf) you will find some of my notes on the fundamentals of computation by circuits, logic gates, and the differences between classical bits and qubits. It will also introduce the postulates of quantum computing, providing a foundation for understanding the principles that differentiate quantum computing from classical computing. Furthermore, the notes will cover the Bloch sphere, superposition, complex numbers, measurement, linear algebra, and the quantum circuit model.
 
 # Quirk: A drag-and-drop quantum circuit simulator
 [Quirk](https://algassert.com/quirk) is an online tool for simulating and visualizing quantum circuits. It allows users to create quantum circuits by dragging and dropping various quantum gates and measurement tools onto a virtual workspace. Once a circuit has been created, users can simulate its behavior by running it and observing the output.
